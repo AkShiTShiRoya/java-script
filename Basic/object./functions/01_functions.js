@@ -31,12 +31,26 @@ const result=addTwoNumbers(3,31)
 // console.log(loginUserMessage("akshit"))
 
 
-function loginUserMessage(username){
-    if(username === undefined){
-        console.log("Please enter the username");
-        return
+// function loginUserMessage(username){
+//     if(username === undefined){
+//         console.log("Please enter the username");
+//         return
+//     }
+//     return `${username} just loggged in `
+// }
+
+// console.log(loginUserMessage())
+
+
+
+
+
+function cart(product){
+    if(!product){
+        return `${product} is empty`
     }
-    return `${username} just loggged in `
+    return "your cart addded succesfully"
+    
 }
 
-console.log(loginUserMessage())
+console.log(cart("bag"))
