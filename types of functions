@@ -1,0 +1,15 @@
+// Function statemrnt  or functions declarations 
+
+function a() {
+    console.log("a is called");
+    
+}
+a();
+
+// Functions Declarations
+ var a = function b(){
+    console.log("b is called");
+    
+ }
+ b();
+
