@@ -1,15 +1,15 @@
-// Function statemrnt  or functions declarations 
+// // Function statemrnt  or functions declarations 
 
-function a() {
-    console.log("a is called");
+// function a() {
+//     console.log("a is called");
     
-}
-a();
+// }
+// a();
 
-// Functions Declarations
- var a = function b(){
-    console.log("b is called");
+// // Functions Declarations
+//  var a = function b(){
+//     console.log("b is called");
     
- }
- b();
-
+//  }
+//  b();
+fdtjdkg h dkjhgkg kjhgkjfgj gkjdfhgkj 
