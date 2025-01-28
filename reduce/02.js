@@ -18,3 +18,4 @@ const user=[
 
 // const total = user.reduce((acc, currentUser) => acc + currentUser.age, 0);
 // console.log(total);
+console.log("================");
